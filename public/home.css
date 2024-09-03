@@ -19,7 +19,7 @@ body::before {
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
-    filter: blur(3px); /* Adjust the blur radius as needed */
+    filter: blur(8.2px); /* Adjust the blur radius as needed */
     z-index: -1; /* Place behind the content */
 }
 
